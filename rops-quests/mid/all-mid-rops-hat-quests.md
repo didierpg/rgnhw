@@ -1,3 +1,8 @@
+---
+layout: page
+title: "all-mid-rops-hat-quests"
+---
+
 | ![](https://www.divine-pride.net/img/items/collection/bRO/5325) | Robo Eye      |     |     |
 | --------------------------------------------------------------: | ------------- | --: | --: |
 |       ![](https://www.divine-pride.net/img/items/item/bRO/2296) | `Binoculars`  | `2` |     |

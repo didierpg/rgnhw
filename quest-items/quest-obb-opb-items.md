@@ -1,3 +1,8 @@
+---
+layout: page
+title: "quest-obb-opb-items"
+---
+
 | ![](https://www.divine-pride.net/img/items/collection/bRO/603) | Old Blue Box           |     |     |
 | -------------------------------------------------------------: | ---------------------- | --: | --: |
 |      ![](https://www.divine-pride.net/img/items/item/bRO/1047) | `Head_Of_Medusa`       |     |     |

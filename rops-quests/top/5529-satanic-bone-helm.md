@@ -1,3 +1,8 @@
+---
+layout: page
+title: "5529-satanic-bone-helm"
+---
+
 | ![](https://www.divine-pride.net/img/items/collection/bRO/5529) | Satanic Bone Helm |        |     |
 | --------------------------------------------------------------: | ----------------- | -----: | --: |
 |       ![](https://www.divine-pride.net/img/items/item/bRO/4064) | `Zerom Card`      |    `1` |     |

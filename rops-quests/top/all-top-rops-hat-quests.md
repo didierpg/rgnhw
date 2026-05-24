@@ -1,3 +1,8 @@
+---
+layout: page
+title: "all-top-rops-hat-quests"
+---
+
 | ![](https://www.divine-pride.net/img/items/collection/bRO/5529) | SatanicBoneHelm  |        |     |
 | --------------------------------------------------------------: | ---------------- | -----: | --: |
 |       ![](https://www.divine-pride.net/img/items/item/bRO/4064) | `ZeromCard`      |    `1` |     |

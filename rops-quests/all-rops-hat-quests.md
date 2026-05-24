@@ -1,3 +1,8 @@
+---
+layout: page
+title: "all-rops-hat-quests"
+---
+
 # Top
 
 | ![](https://www.divine-pride.net/img/items/collection/bRO/5529) | Satanic Bone Helm |        |

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "quest-hat-official"
+---
+
 # Top
 
 | ![](https://www.divine-pride.net/img/items/collection/bRO/5079) | Crossed_Hair_Band |       |     |

@@ -1,3 +1,8 @@
+---
+layout: page
+title: "quest-monster-items"
+---
+
 |                                                            |                          |     |     |
 | ---------------------------------------------------------: | ------------------------ | --: | --: |
 |   ![](https://www.divine-pride.net/img/items/item/bRO/743) | `Spore_Doll`             |     |     |

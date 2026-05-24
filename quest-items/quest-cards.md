@@ -1,3 +1,8 @@
+---
+layout: page
+title: "quest-cards"
+---
+
 |                                                                  |                         |     |     |
 | ---------------------------------------------------------------: | ----------------------- | --: | --: |
 | ![](https://static.divine-pride.net/images/items/cards/4020.png) | `Farmiliar_Card`        |     |     |

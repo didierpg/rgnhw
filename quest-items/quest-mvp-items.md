@@ -1,3 +1,8 @@
+---
+layout: page
+title: "quest-mvp-items"
+---
+
 |        ![](https://file5s.ratemyserver.net/mobs/1038.gif) | OSIRIS           |     |     |
 | --------------------------------------------------------: | ---------------- | --: | --: |
 | ![](https://www.divine-pride.net/img/items/item/bRO/1232) | `Assasin_Dagger` |     |     |

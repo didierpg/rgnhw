@@ -1,9 +1,16 @@
+---
+layout: page
+title: "insights"
+---
+
 # ⚔️ RagnaHow
 
 ## Role Play Quests
+
 - 12 relógios de spawn fixo
 
 ## 💡 Propostas
+
 - Lista de quests revisada e NPCs específicos com lore
 - Monstros Campeões
   - 🟥 Mob com 10x HP, 10x EXP, 10x DROP, 10x ATK, 10x MATK
@@ -20,7 +27,7 @@
 
 - Monstros
   - Pasana
-  - Anubis 
+  - Anubis
   - IRON_FIST
   - SKELETON_GENERAL
   - WRAITH_DEAD
@@ -36,7 +43,7 @@
   - Boss tipo Anjo
   - Boss elemento Sagrado
 - Map
-  - 
+  -
 - Manter da sala VIP
   - Utilidades
   - Mr Peso
@@ -61,13 +68,11 @@
 - Adicionar à sala VIP
   - Kafra com teleporte pago para todas as cidades
 
-
 ## 🐞 Bug
 
 - **IA de Alvo:** Mobs que deveriam mudar de alvo facilmente não o fazem. Eles fixam no primeiro alvo que entra no raio de visão, mesmo que inalcançável, tornando-se alvos fáceis (afeta inclusive MVPs).
 - Remover delay de teleport de 5s quando não há MVP
 - prt_maze03
-
 
 ## ⚡ QoL
 
@@ -77,6 +82,7 @@
 - Possibilitar @follow seguir o personagem de uma conta específica que esteja logado
 - Habilitar botão direito do mouse para seguir
 - Armas iniciais de iniciante com o
+
 ## 📜 Skills
 
 ### 🛡️ Swordsman
@@ -88,30 +94,32 @@
 ### 🧙 Mage
 
 - **Energy Coat:** Não drenar SP em situações de dano 0 garantido (Pneuma, Safety Wall).
-- **Firewall:** Mobs muito rápidos "furam" a parede. Sugestão: aumentar o delay do hit no mob. 
+- **Firewall:** Mobs muito rápidos "furam" a parede. Sugestão: aumentar o delay do hit no mob.
   - default_walk_delay: 300 at conf\battle\skill.conf ffe40def4ab753b428f4425cdd946a56c7ae947a
 
 #### 🧙‍♂️ Wizard
+
 - Storm Gust
   - Em old times, o empurrão da nevasca é mais previsível, empurrando-os na direção nordeste quando não são atigindos pela borda sudoeste dela.
-  
+
   conf/battle/skill.conf
 
-  On official servers, Storm Gust consists of 81 units that all deal 3x3 splash damage "away from center". 
-  Due to south-western cells being processed first, this usually leads to a knockback to the northeast. 
-  Knockback at the edges will be away from SG. Knockback direction can also be influenced by Ganbantein and Land Protector. 
-  If you punch a hole into SG it will for example create a "suck in" effect. 
+  On official servers, Storm Gust consists of 81 units that all deal 3x3 splash damage "away from center".
+  Due to south-western cells being processed first, this usually leads to a knockback to the northeast.
+  Knockback at the edges will be away from SG. Knockback direction can also be influenced by Ganbantein and Land Protector.
+  If you punch a hole into SG it will for example create a "suck in" effect.
   If you disable this setting, the knockback direction will be completely random (eAthena style).
-  
+
   stormgust_knockback: no
 
 #### 📖 Sage
+
 - Land Protector
   - Em old times, todas as células do LP devem anular danos de terreno. Atualmente as bordas ficam desprotegidas.
-  conf/battle/skill.conf 
-  
+    conf/battle/skill.conf
+
   On official servers, players standing on the border (outer cell) of the Land Protector can still be affected/hit by AoE skills (if the skill has a splash effect, such as Storm Gust). The Athena behavior ignores AoE affects/hits while players are standing on the border. Official: 0 Legacy Athena: 1
-  
+
   land_protector_behavior: 1
 
 ### 🏹 Archer
@@ -135,8 +143,10 @@
 #### 👤 Assassin
 
 #### 🎭 Rogue
+
 - Plágio
   - As skills estão mesmo sendo plagiadas? Tomei um sonic blow do grand peco e não copiou a skill (sobrevivi ao ataque inclusive)
+
 ### ⛪ Acolyte
 
 - **Angelus:** Remover a animação nos alvos afetados.

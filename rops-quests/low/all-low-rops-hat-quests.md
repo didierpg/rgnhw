@@ -1,3 +1,8 @@
+---
+layout: page
+title: "all-low-rops-hat-quests"
+---
+
 | ![](https://www.divine-pride.net/img/items/collection/bRO/5596) | 4Leaf Clover In Mouth |       |     |
 | --------------------------------------------------------------: | :-------------------- | ----: | --: |
 |       ![](https://www.divine-pride.net/img/items/item/bRO/4006) | `Lunatic Card`        |   `1` |     |
