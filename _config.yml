@@ -1,0 +1,22 @@
+theme: jekyll-theme-primer
+title: "Database de Propostas Rag"
+description: "ragnahow"
+
+# Layout do menu lateral fixo e manual
+sidebar:
+  - title: "Início"
+    url: /
+  - title: "Análises (Insights)"
+    url: /insights.html
+  - title: "🧰 Itens para Quests"
+    children:
+      - title: "🃏 Cartas"
+        url: /quest-items/quest-cards.html
+      - title: "🧸 Itens de Monstros"
+        url: /quest-items/quest-monster-items.html
+      - title: "👹 Itens de MVP"
+        url: /quest-items/quest-mvp-items.html
+  - title: "👑 Projetos de Hats (Top)"
+    children:
+      - title: "😈 Satanic Bone Helm"
+        url: /rops-quests/top/5529-satanic-bone-helm.html
